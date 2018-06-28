@@ -1,0 +1,34 @@
+.couleur1
+{
+color:purple;
+border:1px pink solid ;
+}
+.ecole
+{
+text-shadow:2px 2px 5px blue;
+}
+h1
+{
+text-align:center;
+}
+
+body
+{
+background-image:url("img/livre.JPG");
+}
+@font-face {
+    font-family: 'ambleregular';
+    src: url('/polices/Amble-Regular-webfont.woff');
+    src: url('/polices/Amble-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/polices/Amble-Regular-webfont.woff2') format('woff2'),
+         url('polices/Amble-Regular-webfont.woff') format('woff'),
+         url('/polices/Amble-Regular-webfont.ttf') format('truetype'),
+         url('polices/Amble-Regular-webfont.svg#ambleregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+p
+{
+font-family:  "ambleregular", Impact, "Arial Black" , Arial;
+}
