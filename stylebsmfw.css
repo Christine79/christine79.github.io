@@ -1,0 +1,231 @@
+body
+{
+font-family:"OpenSans-CondLight",Arial;
+color:#454545;
+font-size:18px;
+margin:2em auto;
+max-width:800px;
+padding:1em;
+line-height:1.4;
+text-align:justify;
+}
+
+@font-face {
+    font-family: "OpenSans-CondLight";
+    src: url('/polices/OpenSans-CondLight.ttf');
+    font-weight: normal;
+    font-size:12;
+}
+
+.lienviolet
+{
+  color:purple;
+}
+.imageflottante
+{
+  float: left;
+  height:40%;
+  width:40%;
+}
+
+
+
+.dessousmini
+{
+    clear: both;
+    font-size:xx-small;
+
+}
+
+.couleurwrong
+{
+  color:#990000;
+  text-decoration:underline;
+}
+.prob
+{
+  text-align:justify;
+  min-width:1500px;
+}
+.madivduhaut
+{
+  margin-top:0;
+}
+
+.cpasunlien
+{
+ color:blue;
+}
+.mini
+{
+  font-size:xx-small;
+}
+.miniital
+{
+  font-size:x-small;
+  font-style:italic;
+}
+
+.quotes
+{
+font-size:25px
+}
+
+.almost
+{
+ font-style:italic;
+}
+.ma-div-black
+{
+font-family:Open Sans,Arial;
+color:#black;
+font-size:16px;
+margin:2em auto;
+max-width:800px;
+padding:1em;
+line-height:1.4;
+text-align:justify
+}
+
+.contrast:active
+{
+color:purple;
+add-class("my-grise-div");
+}
+
+.ma-div-grise {
+  font-family:Open Sans,Arial;
+  color:#454545;
+  font-size:16px;
+  margin:2em auto;
+  max-width:800px;
+  padding:1em;
+  line-height:1.4;
+  text-align:justify
+  }
+
+.ma-div-black {
+    remove-class("ma-grise-div");
+}
+.maclasse
+{
+font-style:italic;
+}
+.contrast
+{
+font-size:14px;
+text-decoration:underline;
+min-width:1000px;
+text-align:right;
+}
+
+.invert
+{
+font-size:14px;
+color:silver;
+background-color:black;
+min-width:1000px;
+text-decoration:underline;
+text-align:right;
+}
+
+.really
+{
+font-size:78;
+}
+
+.st
+{
+margin-top:-1em;
+}
+/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_opacity*/
+.couleurs
+{
+  text-transform:pink;
+}
+
+.shtbleu
+{
+  color:blue;
+}
+
+.shtbleu:hover
+
+{cursor: not-allowed
+  ;
+}
+
+.violetish:hover
+
+{cursor: not-allowed
+  ;
+}
+
+.pictono
+{
+  color:blue;
+}
+
+.bobleu
+{
+  color: #66e0ff;
+}
+
+
+.a2 .bobleusln
+{
+  color: #66e0ff;
+  border-bottom: 1px black solid;
+}
+
+a2:visited
+{
+  color: .bobleu;
+  ;
+}
+
+
+.bold
+{
+  font-weight: bold;
+}
+
+
+a
+{
+color: #66e0ff;
+}
+
+.fontarial
+{
+  font-size: 15px;
+  text-align: justify;
+  min-width: 1000px;
+}
+
+a:visited
+{
+  color: purple;
+  ;
+
+}
+
+.violetish
+{
+color:purple;
+}
+
+.nicecolor
+{
+color:#AA0077;
+text-decoration:underline;
+}
+
+
+.kopimi {
+    height:8%;
+    width:9%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+  }
